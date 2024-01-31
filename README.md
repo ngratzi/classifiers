@@ -48,6 +48,7 @@ SVM
 - After tuning, fit time significantly decreased, and both training accuracy and testing accuracy improved.
 
 Model Performance Deltas
+
 ![Deltas Model Performances](imgs/deltas_model_performances.png)
 
 The model with the best testing accuracy ended up being Logistic Regression with a testing accuracy of 89.9677%, closely followed by SVM with 89.9068% accuracy, which is very close.
